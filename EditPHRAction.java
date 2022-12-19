@@ -37,6 +37,7 @@ import edu.ncsu.csc.itrust.validate.AllergyBeanValidator;
  * @author laurenhayward
  * 
  */
+
 public class EditPHRAction extends PatientBaseAction {
 	private DAOFactory factory;
 	private PatientDAO patientDAO;

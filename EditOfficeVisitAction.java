@@ -39,6 +39,7 @@ import edu.ncsu.csc.itrust.validate.EditOfficeVisitValidator;
  * @author laurenhayward
  * 
  */
+
 public class EditOfficeVisitAction extends OfficeVisitBaseAction {
 	private EditOfficeVisitValidator validator = new EditOfficeVisitValidator();
 	private PersonnelDAO personnelDAO;
